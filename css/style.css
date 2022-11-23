@@ -65,6 +65,12 @@ a {
     margin-top: -47px;
 }
 
+.active {
+    background-image: url(../webImages/main-menu-active.png);
+    display: block;
+    background-repeat: no-repeat;
+}
+
 .nav-list a:hover {
     background-image: url(../webImages/main-menu-active.png);
     display: block;
