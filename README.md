@@ -1,4 +1,4 @@
-# politikos
+# Politikos:
 
 
 Demo: https://politikos.com.gr/
